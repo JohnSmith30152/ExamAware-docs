@@ -39,7 +39,11 @@
 - 在GitHub仓库中，进入 `Settings` -> `Pages`。
 - 在 `Source` 部分选择 `main` 分支并保存。
 ![gh-pages](../web/images/gh01.png)
-- GitHub Pages 将会自动部署项目，稍后即可通过提供的URL访问。   
+- GitHub Pages 将会自动部署项目，稍后即可通过提供的URL访问。
+- 如图，提供的 URL 会直接出现在页面上。
+- ![image](https://github.com/user-attachments/assets/5988bb16-264a-4cc3-a912-ac441b4a0d58)
+
+   
 > [!tip]
 >
 > 您可以在`Custom domain`部分填入您的自定义域名，并将您的自定义域名`CNAME`解析到`{owner}.github.io`。
